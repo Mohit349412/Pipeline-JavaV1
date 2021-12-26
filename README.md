@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/clouduserp8d929aef0916/project-java/_apis/build/status/project-java?branchName=master)](https://dev.azure.com/clouduserp8d929aef0916/project-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
